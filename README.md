@@ -3,6 +3,10 @@ Firmwares for switchmate
 
 Here are a acrhive of every firmware ever released to Switchmate light (wider and older version) and Switchmate bright (thinner and newer version). The reason that someone might want these firmwares is because every Switchmate update breaks backward compability and makes many tools we created for it obselete.
 
+# WARNING
+
+*Update 2018-07-24*: Downgrade using this method may permanently brick your device. The latest version of the firmware remove the auth section and it should be compatible with most of the libraries out there. Please think twice before you downgrade your firmware. For more details see the discussions in: [brianpeiris/switchmate#6](https://github.com/brianpeiris/switchmate/issues/6).
+
 # How to upload the firmware?
 
 ## iOS
